@@ -18,7 +18,8 @@ Start working on an assignment on the day that it is assigned. This reduces the 
 
 ## W2
 ### Activity 1
-testing
+![image](https://github.com/user-attachments/assets/7a710b95-d8c0-4314-9372-2d74fd0be0fe)
+
 
 ### Activity 2
 testing
