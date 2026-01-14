@@ -1,4 +1,5 @@
 # GDIM32 In Class Activities
+## W1
 ### Activity 1
 Start working on an assignment on the day that it is assigned. This reduces the likelihood of procrastination. 
 
@@ -14,3 +15,5 @@ Start working on an assignment on the day that it is assigned. This reduces the 
 
 ### Activity 3
 [MG1 breakdown Google doc](https://docs.google.com/document/d/1UQTlTMUv7OoSRXdfaYn3iWpCgYABL-kNvOKmFYxCaUk/edit?tab=t.0)
+
+## W2
