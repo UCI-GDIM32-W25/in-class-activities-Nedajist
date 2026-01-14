@@ -17,3 +17,8 @@ Start working on an assignment on the day that it is assigned. This reduces the 
 [MG1 breakdown Google doc](https://docs.google.com/document/d/1UQTlTMUv7OoSRXdfaYn3iWpCgYABL-kNvOKmFYxCaUk/edit?tab=t.0)
 
 ## W2
+### Activity 1
+testing
+
+### Activity 2
+testing
