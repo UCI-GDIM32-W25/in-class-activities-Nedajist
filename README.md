@@ -1,4 +1,4 @@
-# GDIM32 In Class Activities
+<img width="680" height="906" alt="image" src="https://github.com/user-attachments/assets/408a3196-c9f0-4a33-8a49-fceb94d85730" /># GDIM32 In Class Activities
 ## W1
 ### Activity 1
 Start working on an assignment on the day that it is assigned. This reduces the likelihood of procrastination. 
@@ -31,3 +31,5 @@ Collecting a coin updates the score text, and coins spawn in randomly.
 Partner's name: Marcelo Thomas Esposo Tolosa
 
 ### Activity 3
+![image](https://github.com/user-attachments/assets/ed8352a5-04ef-446e-b46f-8cab00bf7ff0)
+
