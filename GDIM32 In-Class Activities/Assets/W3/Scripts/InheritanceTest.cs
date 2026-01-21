@@ -1,4 +1,4 @@
-/*
+
 using UnityEngine;
 
 public class InheritanceTest : MonoBehaviour
@@ -32,14 +32,19 @@ public class Npc
 }
 
 // CHANGE THINGS IN VILLAGER...
-public class Villager
+public class Villager: Npc
 {
-	
+    public override void Talk(string playerName)
+    {
+		Debug.Log("Hello " + playerName + ". I am but a humble villager going about my day.");
+    }
 }
 
 // CHANGE THINGS IN ENEMY...
-public class Enemy
+public class Enemy: Npc
 {
-	
+    public override void Talk(string playerName)
+    {
+        Debug.Log(">:)))))) I have the ability to telepathically communicate with emoticons. It's over, "+playerName+"!!!");
+    }
 }
-*/

@@ -25,3 +25,9 @@ Start working on an assignment on the day that it is assigned. This reduces the 
 [Github commit link](https://github.com/UCI-GDIM32-W25/mg2-oop-review-Nedajist/commit/0d3b613a97bc3b1dd6d6453499c9e188191cf88b)
 I believe I have met every element of the rubric. I added a player character who jumps but cannot double jump, and who collects moving coins upon colliding with them.
 Collecting a coin updates the score text, and coins spawn in randomly.
+
+## W3
+### Activities 0-2
+Partner's name: Marcelo Thomas Esposo Tolosa
+
+### Activity 3
