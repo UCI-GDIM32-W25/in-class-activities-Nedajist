@@ -1,4 +1,3 @@
-<img width="680" height="906" alt="image" src="https://github.com/user-attachments/assets/408a3196-c9f0-4a33-8a49-fceb94d85730" /># GDIM32 In Class Activities
 ## W1
 ### Activity 1
 Start working on an assignment on the day that it is assigned. This reduces the likelihood of procrastination. 
