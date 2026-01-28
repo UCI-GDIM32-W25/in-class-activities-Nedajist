@@ -35,3 +35,8 @@ Partner's name: Marcelo Thomas Esposo Tolosa
 ## W4
 ### Activity 1
 Partner's name: Marcelo Thomas Esposo Tolosa
+When I add multiple Locator objects to the scene, all but one of the locator components were destroyed upon running the game. This is because the Locator script 
+actively searches for whether or not another locator component has been loaded, and if so, the locator destroys itself. One locator loaded in first when the game started, and
+all of the other locators detected that first locator and destroyed themselves. 
+
+### Activity 2

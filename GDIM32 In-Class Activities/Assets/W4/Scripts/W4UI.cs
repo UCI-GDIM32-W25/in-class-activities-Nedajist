@@ -10,7 +10,10 @@ public class W4UI : MonoBehaviour
     // use the Locator to find the Pigeon
     // then, subscribe the HandlePigeonCoo method to the Pigeon coo event
 
-
+    public void Start()
+    {
+        Locator.Instance.pigeon.PidgeonCooed += HandlePigeonCoo;
+    }
 
 
 

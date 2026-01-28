@@ -1,5 +1,6 @@
 using UnityEngine;
 using System.Collections;
+using Unity.VisualScripting;
 
 public class W4VFX : MonoBehaviour
 {
@@ -10,7 +11,10 @@ public class W4VFX : MonoBehaviour
     // use the Locator to find the Pigeon
     // then, subscribe the HandlePigeonCoo method to the Pigeon coo event
 
-
+    public void Start()
+    {
+        Locator.Instance.pigeon.PidgeonCooed += HandlePigeonCoo;
+    }
 
 
 
