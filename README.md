@@ -32,3 +32,6 @@ Partner's name: Marcelo Thomas Esposo Tolosa
 ### Activity 3
 ![image](https://github.com/user-attachments/assets/ed8352a5-04ef-446e-b46f-8cab00bf7ff0)
 
+## W4
+### Activity 1
+Partner's name: Marcelo Thomas Esposo Tolosa
