@@ -40,3 +40,5 @@ actively searches for whether or not another locator component has been loaded, 
 all of the other locators detected that first locator and destroyed themselves. 
 
 ### Activity 2
+![image](https://github.com/user-attachments/assets/b42318ee-12f5-45c1-a661-318058b2a132)
+
