@@ -42,3 +42,7 @@ all of the other locators detected that first locator and destroyed themselves.
 ### Activity 2
 ![image](https://github.com/user-attachments/assets/b42318ee-12f5-45c1-a661-318058b2a132)
 
+### Activity 3
+[Github commit link](https://github.com/Nedajist/HW4/commit/fec8998e363deebdee65a8e033564510bc0d50b7)
+I've added the bird, pipe, and ground sprites into the game. Collisions and rigidbodies for the bird, pipe, and ground should be complete. I have also added
+a trigger collider which will add to the player's score. 
