@@ -45,4 +45,14 @@ all of the other locators detected that first locator and destroyed themselves.
 ### Activity 3
 [Github commit link](https://github.com/Nedajist/HW4/commit/fec8998e363deebdee65a8e033564510bc0d50b7)
 I've added the bird, pipe, and ground sprites into the game. Collisions and rigidbodies for the bird, pipe, and ground should be complete. I have also added
-a trigger collider which will add to the player's score. 
+a trigger collider which will add to the player's score.
+
+## W5
+### Activity 1
+I think the code for activity 1 is fine as is; one possible change I could think of is bundling IBreakable into item, such
+that all items would have Damage, Break, and Use methods. Normal item classes would only need to inherit from item, not item and IBreakable.
+Unbreakable items could implement empty damage and break methods. The tradeoff is less multi-inheritance, but more useless methods. 
+I don't think it's a worthy exchange, but it is a possible alternative.
+
+### Activity 2
+The InventoryUI class is the view. The PlayerW5Demo2 class is the controller. The EnemyStats and itemW5Demo2 classes are the model.
