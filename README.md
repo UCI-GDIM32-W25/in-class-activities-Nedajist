@@ -56,3 +56,17 @@ I don't think it's a worthy exchange, but it is a possible alternative.
 
 ### Activity 2
 The InventoryUI class is the view. The PlayerW5Demo2 class is the controller. The EnemyStats and itemW5Demo2 classes are the model.
+
+### Activity 3
+Scenario 1: GameController Singleton connecting UI, sound, playercontroller, data-storage classes together (model-view-controller). Polymorphism: base button class, with specialized children
+buttons inheriting from it (like buttons meant to be held rather than pressed, buttons with special symbols). ScriptableObject containing player score, score value for each note. 
+
+Scenario 2: Model tracking player stats and team-scores. View displaying all of the models, animations, and UI. Controller to handle player keyboard/mouse input. Polymorphism: basic parent gun class with 
+attributes like ammo, damage. Children inherit from that class and add additional features, like specific damage effects or animation. 
+
+Scenario 3: State machine for plants (seedling, partly-grown, fully-grown, etc). Model class tracking player inventory data and plant growth stages. View class displaying
+all of the pixelart and sprites. Controller class to handle player input. ScriptableObject containing player inventory and currency balance.
+
+
+### Activity 4
+[Final Game Proposal Document Link](https://docs.google.com/document/d/1IXMcedZDubU3jHOIg-ZRwtj0N-xMFaV7MpOOSQTA65Q/edit?tab=t.0#heading=h.khlj2whc254g)
