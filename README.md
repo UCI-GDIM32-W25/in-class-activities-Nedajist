@@ -73,8 +73,8 @@ all of the pixelart and sprites. Controller class to handle player input. Script
 
 ## W6
 Talk: Narrative Writing, Cory Lanham
-Senior Game writer @ Ready at Dawn
-16+ years in games industry
+
+Senior Game writer @ Ready at Dawn, 16+ years in games industry
 
 “You throw a rock in Irvine, you’ll hit someone who worked on a cancelled Blizzard project.”
 
