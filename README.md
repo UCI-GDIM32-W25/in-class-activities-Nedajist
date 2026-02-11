@@ -72,6 +72,7 @@ all of the pixelart and sprites. Controller class to handle player input. Script
 [Final Game Proposal Document Link](https://docs.google.com/document/d/1IXMcedZDubU3jHOIg-ZRwtj0N-xMFaV7MpOOSQTA65Q/edit?tab=t.0#heading=h.khlj2whc254g)
 
 ## W6
+### Activity 1
 Talk: Narrative Writing, Cory Lanham
 
 Senior Game writer @ Ready at Dawn, 16+ years in games industry
@@ -153,3 +154,8 @@ Q&A
 - Q: How to set yourself apart as a writer? A: Lean in to your strengths, showcase broad talent.
 - Q: Why choose freelance? A: Lack of full time positions. Some writers do prefer freelance though.
 - Q: How transferable are creative writing skills for games? A: Some skills, like understanding story structure, are very important. Games like to break story structure.
+
+### Activity 2
+Attendance: Kai Meng, Marcelo Thomas Esposo Tolosa, Nathan Garrett Hernandez
+
+[Final Game Proposal Final Draft Document Link](https://docs.google.com/document/d/1IXMcedZDubU3jHOIg-ZRwtj0N-xMFaV7MpOOSQTA65Q/edit?tab=t.0#heading=h.khlj2whc254g)
