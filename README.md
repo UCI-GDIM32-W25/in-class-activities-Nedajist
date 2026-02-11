@@ -150,6 +150,7 @@ How to get into the games industry as a writer
 - Join discords & local meetups
 
 Q&A
+
 Q: How to set yourself apart as a writer? A: Lean in to your strengths, showcase broad talent.
 
 Q: Why choose freelance? A: Lack of full time positions. Some writers do prefer freelance though.
