@@ -151,5 +151,7 @@ How to get into the games industry as a writer
 
 Q&A
 Q: How to set yourself apart as a writer? A: Lean in to your strengths, showcase broad talent.
+
 Q: Why choose freelance? A: Lack of full time positions. Some writers do prefer freelance though.
+
 Q: How transferable are creative writing skills for games? A: Some skills, like understanding story structure, are very important. Games like to break story structure.
