@@ -1,4 +1,4 @@
-## W1
+﻿## W1
 ### Activity 1
 Start working on an assignment on the day that it is assigned. This reduces the likelihood of procrastination. 
 
@@ -70,3 +70,82 @@ all of the pixelart and sprites. Controller class to handle player input. Script
 
 ### Activity 4
 [Final Game Proposal Document Link](https://docs.google.com/document/d/1IXMcedZDubU3jHOIg-ZRwtj0N-xMFaV7MpOOSQTA65Q/edit?tab=t.0#heading=h.khlj2whc254g)
+
+## W6
+Talk: Narrative Writing, Cory Lanham
+Senior Game writer @ Ready at Dawn
+16+ years in games industry
+
+“You throw a rock in Irvine, you’ll hit someone who worked on a cancelled Blizzard project.”
+
+Game writers collaborate w/ design, art, animation, audio, engineering, leadership to craft a narrative which enhances the gameplay (hopefully)
+- Plot & character arcs
+- Worldbuilding and Lore
+- Cinematic and mission dialogue
+- Systemic Dialogue (“Barks”, AMbient dialogue)
+- UI Text
+- Marketing Text
+- Voice acting documentation + other internal documentation
+- “The demon” “absolute headache” localization
+
+It is a miracle that any games get shipped at all
+
+2 broad categories of writers: 
+
+Freelance Writers
+- Independent contractor, not official studio employee
+- Hired to do specific job at specific time (barks, high-level story, polishing)
+- Can work on multiple projects at once
+
+In-House Writers
+- Full-time studio employee. Writing from pre-prod → ship
+- More influence over narrative, but you are not in charge. You only execute decisions.
+- Need permission to work on multiple projects
+
+Pre-production:
+- Board full of sticky notes
+- Deliver high-level narrative summary (key plot points)
+- Understand the scope
+- Eventually develop complete & detailed story outline
+- Create scene description, “set pieces”, objectives
+- Create narrative delivery methods 
+- How the story will be told
+- How the player will interact w/ story
+- Find out how to import script into game 
+
+Production:
+- Write cinematic and mission scripts, collab with level design and leadership
+- Write UI/UX text 
+- Write barks, ambient dialogue
+- Write worldbuilding and lore and history and timeline, non “player-facing” dialogue
+- Sit in on voice actor recording sessions
+- Much more expensive to re-write motion-captured lines
+- You’re never working in a vacuum
+- Re-write everything over and over and over again 
+- Writing is cheap and malleable, unlike everything else
+
+
+Post-production to Shipping
+- Write marketing materials
+- Write website
+- Write trailers
+- Re-write non-dialogue text (UI/UX, tooltip, etc)
+- Often character names and made up words are offensive in some language 
+- Provide translation notes for localization
+
+
+Tools to use
+- Google docs, MS Excel/Sheets
+- For branching dialogue, use Arcweave, Twine, Yarn, Ink/Inkle
+- Write script with Final Draft / Celtic
+
+How to get into the games industry as a writer
+- Work in another department first or a writing job not in games
+- Bug a recruiter once a month for 12 months
+- Get an entry level job with terrible pay
+
+- In-House QA → Writing pipeline 
+- If you’re QA-ing, try to interact with narrative in some way. Like proofreading text
+- Get an internship and get a return offer 
+- Make a game, preferably with others 
+- Join discords & local meetups
