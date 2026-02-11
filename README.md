@@ -143,7 +143,6 @@ How to get into the games industry as a writer
 - Work in another department first or a writing job not in games
 - Bug a recruiter once a month for 12 months
 - Get an entry level job with terrible pay
-
 - In-House QA → Writing pipeline 
 - If you’re QA-ing, try to interact with narrative in some way. Like proofreading text
 - Get an internship and get a return offer 
