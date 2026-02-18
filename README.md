@@ -168,3 +168,9 @@ and an aggro state. If the duck is aggro'd but breaks line-of-sight to the playe
 
 ### Activity 2
 Attendance: Kai Meng, Marcelo Thomas Esposo Tolosa, Nathan Garrett Hernandez
+
+### Activity 3
+[Final Project Breakdown](![image](https://github.com/user-attachments/assets/40f70d77-7014-45a5-9709-655f47be5bc3)
+
+### Activity 5
+
