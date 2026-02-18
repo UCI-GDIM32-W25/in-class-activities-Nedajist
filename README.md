@@ -159,3 +159,12 @@ Q&A
 Attendance: Kai Meng, Marcelo Thomas Esposo Tolosa, Nathan Garrett Hernandez
 
 [Final Game Proposal Final Draft Document Link](https://docs.google.com/document/d/1IXMcedZDubU3jHOIg-ZRwtj0N-xMFaV7MpOOSQTA65Q/edit?tab=t.0#heading=h.khlj2whc254g)
+
+## W7
+### Activity 1
+The duck NPC projects a raycast aimed towards the player with a limited magnitude. If the raycast hits the player, the duct will turn red and aggro onto the player.
+If there is an object in between the duck and the player, the raycast will be blocked, and the duck will never aggro. A finite state machine controls the duck's behavior. It switches between a wandering
+and an aggro state. If the duck is aggro'd but breaks line-of-sight to the player, the duck will return to wandering. 
+
+### Activity 2
+Attendance: Kai Meng, Marcelo Thomas Esposo Tolosa, Nathan Garrett Hernandez
