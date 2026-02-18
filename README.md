@@ -176,4 +176,6 @@ Attendance: Kai Meng, Marcelo Thomas Esposo Tolosa, Nathan Garrett Hernandez
 [Trello Link](https://trello.com/invite/b/6995204777ab91bf1b649243/ATTIbd89dc84514c6ff00c0874cf5e8e97ed80F2CB33/-)
 
 ### Activity 5
-
+[Github Commit Link](https://github.com/lindenreid/GDIM32-Final/commit/3d4b5eea8b628ec18c8b4b875fedb76b83d53b46) 
+I added the obstacle tag, and player interaction with obstacles. When the player jumps/walks into an object with the obstacle tag, the player
+is forced backwards from the obstacle. They function like the 2D donut-shaped bumpers from Mario. 
