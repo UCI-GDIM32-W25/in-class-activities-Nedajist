@@ -164,13 +164,16 @@ Attendance: Kai Meng, Marcelo Thomas Esposo Tolosa, Nathan Garrett Hernandez
 ### Activity 1
 The duck NPC projects a raycast aimed towards the player with a limited magnitude. If the raycast hits the player, the duct will turn red and aggro onto the player.
 If there is an object in between the duck and the player, the raycast will be blocked, and the duck will never aggro. A finite state machine controls the duck's behavior. It switches between a wandering
-and an aggro state. If the duck is aggro'd but breaks line-of-sight to the player, the duck will return to wandering.
+and an aggro state. If the duck is aggro'd but breaks line-of-sight to the player, the duck will return to wandering. The duck periodically fires a spherecast to check for nearby obstacles
 
 ### Activity 2
 Attendance: Kai Meng, Marcelo Thomas Esposo Tolosa, Nathan Garrett Hernandez
 
 ### Activity 3
 [Final Project Breakdown](![image](https://github.com/user-attachments/assets/40f70d77-7014-45a5-9709-655f47be5bc3)
+
+### Activity 4
+[Trello Link](https://trello.com/invite/b/6995204777ab91bf1b649243/ATTIbd89dc84514c6ff00c0874cf5e8e97ed80F2CB33/-)
 
 ### Activity 5
 
