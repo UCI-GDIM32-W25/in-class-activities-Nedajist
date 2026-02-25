@@ -194,3 +194,20 @@ EX: Bloom
 
 ### Activity 2
 Attendance: Kai Meng, Marcelo Thomas Esposo Tolosa, Nathan Garrett Hernandez
+
+### Activity 3
+I did not say anything to the playtesters at first, and they did not know that you could charge your character's jump. After telling them, they
+found the mechanic to be difficult yet enjoyable. While the movement mechanic is still WIP, it seems to be working well. 
+Around 50% of the playtesters' jumps resulted in their death, but they gradually decreased their margin of error. They encountered a bug where
+the player can indefinitely suspend themselves in midair if colliding with the side of a platform. Playtesters suggested that the player should be 
+able to move while falling -- it would make the game more forgiving. 
+
+### Activity 4
+Today I plan to work on re-tuning the player's jump mechanic to make it feel more instantaneous and fast. I will also add a slope script, that, when attached to a sloped object,
+gradually slides the player down. 
+
+### Activity 5 
+[Github Commit Link](https://github.com/lindenreid/GDIM32-Final/commit/97f697fe6629e13575548a63edad372a722868a2)
+The Unity physics engine automatically handles slope sliding, so I only needed to find and add slope shapes. I readjusted the player's movement variables, decreasing their jump height.
+The player can now move while falling, albeit at a far slower pace. Also, I fixed a bug where the player would freeze after uncolliding with a wall because the game thought
+the player was falling. Now the player checks if it isn't colliding with anything before setting its state to falling. 
