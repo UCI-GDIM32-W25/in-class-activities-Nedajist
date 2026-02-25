@@ -179,3 +179,18 @@ Attendance: Kai Meng, Marcelo Thomas Esposo Tolosa, Nathan Garrett Hernandez
 [Github Commit Link](https://github.com/lindenreid/GDIM32-Final/commit/3d4b5eea8b628ec18c8b4b875fedb76b83d53b46) 
 I added the obstacle tag, and player interaction with obstacles. When the player jumps/walks into an object with the obstacle tag, the player
 is forced backwards from the obstacle. They function like the 2D donut-shaped bumpers from Mario. 
+
+## W8
+### Activity 1
+Rendering pipeline: a sequence of instructions for how everything in the game will be drawn to the screen (rendered)
+Shaders are a part of the rendering pipeline, but not the pipeline itself
+Shaders are written in CPU code. C# or C++
+Rendering pipelines decide what materials get drawn, in what order
+
+When downloading something from the asset store, check what rendering pipelines it is compatible with. 
+
+Post-processing effects: shaders that affect the llook of the entire screen. They must work with your rendering pipeline as well.
+EX: Bloom
+
+### Activity 2
+Attendance: Kai Meng, Marcelo Thomas Esposo Tolosa, Nathan Garrett Hernandez
