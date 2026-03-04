@@ -211,3 +211,9 @@ gradually slides the player down.
 The Unity physics engine automatically handles slope sliding, so I only needed to find and add slope shapes. I readjusted the player's movement variables, decreasing their jump height.
 The player can now move while falling, albeit at a far slower pace. Also, I fixed a bug where the player would freeze after uncolliding with a wall because the game thought
 the player was falling. Now the player checks if it isn't colliding with anything before setting its state to falling. 
+
+## W9
+### Activity 1
+Code scalse well if, when the program is handling a lot of data, it is easy for users to add more data, and it is performant.
+GDIM 32 is meant to teach you how to build scalable code. 
+Good branching dialogue does not say in code what the next dialogue option will be, it says it with inspector-editable data. This way editors can easily draw paths between dialogue nodes. 
