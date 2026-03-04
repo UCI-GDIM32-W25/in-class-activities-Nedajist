@@ -217,3 +217,23 @@ the player was falling. Now the player checks if it isn't colliding with anythin
 Code scalse well if, when the program is handling a lot of data, it is easy for users to add more data, and it is performant.
 GDIM 32 is meant to teach you how to build scalable code. 
 Good branching dialogue does not say in code what the next dialogue option will be, it says it with inspector-editable data. This way editors can easily draw paths between dialogue nodes. 
+If you get anything from this class: test your builds, not just in-engine.
+
+### Activity 2
+Attendance: Kai Meng, Nathan Garrett Hernandez
+Marcelo is sick and has e-mailed Prof. Reid. 
+
+### Activity 3
+Playtest Notes
+How was the movement? The jumping and platforming overall were addicting.
+Recommendations: Lower camera sensitivity, introduce mechanics slowly over time, introduce a jump force indicator
+
+### Activity 4 
+Our team is over halfway complete, and we believe we are on pace. We scoped-down our player objectives, as the player no longer has to platform out of the giant hole in the ground, and there are no penalities for climbing up. 
+We have player interaction with items, player movement, UI, inventory, and dialogue all complete or near completion. All that's left is quests, writing more dialogue, finishing the other half of the level, and bugfixing. 
+Our project should now be appropriately scoped. 
+
+### Activity 5
+[Github Commit Link](https://github.com/lindenreid/GDIM32-Final/commit/535e52fdc25e6c1c698c1805f24d2f272280be91)
+I added a smaller slider under the player's health bar. It tracks the amount of forward momentum currently held in the player's charge, and fills up as
+the player accumulates charge. The color of the slider also changes from neon green to bright red as the player's charge increases.
