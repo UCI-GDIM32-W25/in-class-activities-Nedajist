@@ -237,3 +237,21 @@ Our project should now be appropriately scoped.
 [Github Commit Link](https://github.com/lindenreid/GDIM32-Final/commit/535e52fdc25e6c1c698c1805f24d2f272280be91)
 I added a smaller slider under the player's health bar. It tracks the amount of forward momentum currently held in the player's charge, and fills up as
 the player accumulates charge. The color of the slider also changes from neon green to bright red as the player's charge increases.
+
+
+## W10
+### Activity 1
+Attendance: Kai Meng, Marcelo Thomas Esposo Tolosa, Nathan Garrett Hernandez
+
+### Activity 2
+Playtest notes: Players figured out easily how to consume food. The bar made it helpful to visually see the charge of the jump. Had trouble making it to islands at the beginning, sometimes slipped off of the islands. Had trouble going down the tower, kept dying to fall damage, possibly make the tower a little easier. Add lighting, trees make the shade too dark all around, add possible lanterns. Camera fixes, character moves right before camera does.
+
+### Activity 3
+We are well on track to finishing the project. Player animation, SFX, movement, interactables, the dialogue system, and the level are all complete or >70% complete. Overrall, I would say the project is 70% finished. I thought we would only be around halfway done, but we are ahead of schedule.
+We only need to add NPC dialogue (1/3 of which is written) and implement the quest system. It was a good decision to cut enemies, and I believe our project's scope is fully within the realm of possibility. 
+
+### Activity 4
+[Github Commit Link](https://github.com/lindenreid/GDIM32-Final/commit/f5d6141d42a57197b561defa4ce4547baf16d42b)
+I added a new interactable class, Makibean.cs. It is a plushie of a character from Chainsaw Man, as the main character is also from that series. 
+The player can pick up the plushie, and the plushie automatically rotates to face the camera. Using the plushie heals the player for some amount of health, but I will add additional
+effects later.
